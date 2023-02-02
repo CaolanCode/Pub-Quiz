@@ -1,7 +1,5 @@
 /*
-    name: Caolan Mac Mahon
-    student number: C00222425
-    Lab 5
+  Pub Quiz
  */
 #include <iostream>
 #include <time.h>

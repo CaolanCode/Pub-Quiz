@@ -1,7 +1,5 @@
 /*
     Quiz Questions
-    Caolan Mac Mahon
-    C00222425
  */
 using std::cout;
 using std::endl;
